@@ -8,8 +8,6 @@ Players win by landing punches and managing movement and defenses
 
 # Development 
 
------------------------------------------------------------------
-
 ### Phase 1: Core Mechanics
 Goal: Make punching work
 
