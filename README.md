@@ -4,7 +4,7 @@
 A boxing game inspired by Punch-Out.
 Players win by landing punches and managing movement and defenses
 
------------------------------------------------------------------
+---
 
 # Development 
 
@@ -19,7 +19,7 @@ Goal: Make punching work
 Phase 1 is complete when:
 - Character can land a punch and knockout the opponent
 
------------------------------------------------------------------
+---
 
 ### Phase 2: Movement & Camera
 Goal: 
@@ -33,7 +33,7 @@ Goal:
 Phase 2 is Complete when:
 
 
------------------------------------------------------------------
+---
 
 ### Phase 3: Comabt Depth
 Goal: 
@@ -45,7 +45,7 @@ Goal:
 
 Phase 3 is complete when:
 
------------------------------------------------------------------
+---
 
 ### Phase 4: The Opponent
 Goal:
@@ -55,7 +55,7 @@ Goal:
 
 Phase 4 is done when:
 
------------------------------------------------------------------
+---
 
 ### Phase 5: UI & Game Flow
 Goal:
@@ -67,7 +67,7 @@ Goal:
 
 Phase 5 is done when:
 
------------------------------------------------------------------
+---
 
 ### Phase 6: Content
 Goal: 
@@ -78,4 +78,4 @@ Goal:
 
 Phase 6 is done when:
 
------------------------------------------------------------------
+---
